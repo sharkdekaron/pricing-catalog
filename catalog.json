@@ -1,7 +1,7 @@
 {
   "models": [
     { "code": "H-C125", "brand": "Honda",  "name": "Click 125i",   "price": 56900 },
-    { "code": "ACF110CBTS 3TH", "brand": "Honda",  "name": "Wave 110i",    "price": 43000 },
+    { "code": "ACF110CBTS 3TH", "brand": "Honda",  "name": "Wave 110i",    "price": 56000 },
     { "code": "Y-NMAX", "brand": "Yamaha", "name": "NMAX 155",     "price": 91900 },
     { "code": "Y-GF",   "brand": "Yamaha", "name": "Grand Filano", "price": 63200 },
     { "code": "EV-A",   "brand": "EV Brand","name": "รุ่น A",       "price": 759000 }
