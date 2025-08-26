@@ -1,18 +1,18 @@
 {
   "models": [
-    { "brand": "Honda", "name": "Wave110", "code": "AFS110MCFR 4TH", "price": 56000 },
-    { "brand": "Honda", "name": "Wave125", "code": "AFS125CSFP TH", "price": 67500 },
-    { "brand": "Honda", "name": "Scoopy กูตูง", "code": "ACF110CBTR 3TH", "price": 60000 },
-    { "brand": "Honda", "name": "Scoopy cl12", "code": "ACF110CBTR TH", "price": 61500 },
+    { "brand": "Honda", "name": "Wave110", "code": "AFS110MCFS 3TH", "price": 56000 },
+    { "brand": "Honda", "name": "Wave125", "code": "AFS125CSFS TH", "price": 67500 },
+    { "brand": "Honda", "name": "Wave125 RM", "code": "AFS125CSFP TH", "price": 73500 },
+    { "brand": "Honda", "name": "Scoopy Key", "code": "ACF110CBTS 3TH", "price": 60000 },
+    { "brand": "Honda", "name": "Scoopy cl12", "code": "ACF110CBTS TH", "price": 61500 },
     { "brand": "Honda", "name": "Lead125", "code": "-", "price": 68000 },
     { "brand": "Honda", "name": "Giorno std", "code": "ACF125CBR TH", "price": 75000 },
     { "brand": "Honda", "name": "Giorno abs", "code": "ACF125CAR TH", "price": 78000 },
-    { "brand": "Honda", "name": "Click160", "code": "ACB160CATR2 TH", "price": 78900 },
-    { "brand": "Honda", "name": "Click160", "code": "ACB160CATR TH", "price": 78000 },
-    { "brand": "Honda", "name": "Pcx abs", "code": "WW160P TH", "price": 111000 },
-    { "brand": "Honda", "name": "Pcx RS", "code": "WW160AP TH", "price": 115000 },
-    { "brand": "Honda", "name": "ADV", "code": "ADV160AP TH", "price": 120000 },
-    { "brand": "Honda", "name": "ADV captan, ironman", "code": "ADV160AP TH", "price": 123000 },
+    { "brand": "Honda", "name": "Click160", "code": "ACB160CATS 2TH", "price": 78900 },
+    { "brand": "Honda", "name": "Click160", "code": "ACB160CATS TH", "price": 78000 },
+    { "brand": "Honda", "name": "Pcx abs", "code": "WW160AS TH", "price": 111000 },
+    { "brand": "Honda", "name": "Pcx RS", "code": "WW160AS 2TH", "price": 115000 },
+    { "brand": "Honda", "name": "ADV", "code": "ADV160AS TH", "price": 120000 },
     { "brand": "Yamaha", "name": "Filano", "code": "BJK400", "price": 75000 }
   ],
   "updatedAt": "2025-08-26T12:30:00Z"
