@@ -9,7 +9,7 @@
 
 \f0\fs26 \cf2 \{\
   \cf3 "models"\cf2 : [\
-    \{ \cf3 "code"\cf2 : \cf4 "H-C125"\cf2 , \cf3 "brand"\cf2 : \cf4 "Honda"\cf2 ,  \cf3 "name"\cf2 : \cf4 "Click 125i"\cf2 ,   \cf3 "price"\cf2 : \cf3 56900\cf2  \},\
+    \{ \cf3 "code"\cf2 : \cf4 "ACF125CSFS TH"\cf2 , \cf3 "brand"\cf2 : \cf4 "Honda"\cf2 ,  \cf3 "name"\cf2 : \cf4 "Click 125i"\cf2 ,   \cf3 "price"\cf2 : \cf3 56900\cf2  \},\
     \{ \cf3 "code"\cf2 : \cf4 "H-W110"\cf2 , \cf3 "brand"\cf2 : \cf4 "Honda"\cf2 ,  \cf3 "name"\cf2 : \cf4 "Wave 110i"\cf2 ,    \cf3 "price"\cf2 : \cf3 43000\cf2  \},\
     \{ \cf3 "code"\cf2 : \cf4 "Y-NMAX"\cf2 , \cf3 "brand"\cf2 : \cf4 "Yamaha"\cf2 , \cf3 "name"\cf2 : \cf4 "NMAX 155"\cf2 ,     \cf3 "price"\cf2 : \cf3 91900\cf2  \},\
     \{ \cf3 "code"\cf2 : \cf4 "Y-GF"\cf2 ,   \cf3 "brand"\cf2 : \cf4 "Yamaha"\cf2 , \cf3 "name"\cf2 : \cf4 "Grand Filano"\cf2 , \cf3 "price"\cf2 : \cf3 63200\cf2  \},\
