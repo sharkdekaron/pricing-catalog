@@ -1,7 +1,7 @@
 {
   "models": [
     { "brand": "Honda", "name": "Wave110", "code": "AFS110MCFS 3TH", "price": 56000 },
-    { "brand": "Honda", "name": "Wave125", "code": "AFS125CSFS TH", "price": 67500 },
+    { "brand": "Honda", "name": "Wave125", "code": "AFS125CSFS TH", "price": 67000 },
     { "brand": "Honda", "name": "Wave125 RM", "code": "AFS125CSBT 2TH", "price": 70000 },
     { "brand": "Honda", "name": "Scoopy Key", "code": "ACF110CBTS 3TH", "price": 59000 },
     { "brand": "Honda", "name": "Scoopy cl12", "code": "ACF110CBTS TH", "price": 60000 },
